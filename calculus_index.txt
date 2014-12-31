@@ -1,0 +1,6 @@
+p161 Chapter 9 Derivatives
+p180 Chapter 10 Differentiation
+p199 Chapter 11 Significance of the derrivative
+p241 Chapter 12 Inverse Functions
+p264 Chapter 13 Integrals
+p296 Chapter 14 Fundamental Theorem of Calculus
